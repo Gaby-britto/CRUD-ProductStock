@@ -1,0 +1,32 @@
+
+Código: 22
+Nome: 22
+Descrição: 22
+Quantidade: 22
+Preço: 22.0
+Marca: 22
+Modelo: 22
+
+Código: 222
+Nome: computador
+Descrição: teclas
+Quantidade: 22
+Preço: 3000.0
+Marca: sansung
+Modelo: 2021
+
+Código: 333
+Nome: celular
+Descrição: touch
+Quantidade: 33
+Preço: 1200.0
+Marca: apple
+Modelo: XR
+
+Código: 777
+Nome: fone
+Descrição: som
+Quantidade: 55
+Preço: 101.0
+Marca: sansung
+Modelo: 2024

@@ -1,0 +1,17 @@
+Models.Eletronico@60f82f98
+Models.Eletronico@7f690630
+
+
+
+2,2,2,2,2,00,2,2
+
+Código: 2
+Código: 123654
+
+Código: 2
+Nome: 2
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo2

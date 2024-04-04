@@ -1,0 +1,131 @@
+Código: 1
+Nome: null
+Descrição: null
+Quantidade: 1
+Preço: 1.0
+Validade: null
+
+Código: 3
+Nome: null
+Descrição: null
+Quantidade: 3
+Preço: 3.0
+Validade: null
+
+Código: 3
+Nome: null
+Descrição: null
+Quantidade: 3
+Preço: 3.0
+Marca: null
+Modelo: null
+
+Código: 
+Nome: 
+Descrição: null
+Quantidade: 2
+Preço: 2.0
+Marca: null
+Modelo: null
+
+Código: 
+Nome: 
+Descrição: null
+Quantidade: 2
+Preço: 2.0
+Marca: null
+Modelo: null
+
+Código: 1
+Nome: null
+Descrição: null
+Quantidade: 1
+Preço: 1.0
+Validade: null
+
+Código: 
+Nome: 
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 2
+
+Código: 
+Nome: 
+Descrição: null
+Quantidade: 2
+Preço: 2.0
+Marca: null
+Modelo: null
+
+Código: 
+Nome: 
+Descrição: sss
+Quantidade: 22
+Preço: 22.0
+Marca: sss
+Modelo: sss
+
+Código: 
+Nome: 
+Descrição: null
+Quantidade: 2
+Preço: 2.0
+Marca: null
+Modelo: null
+
+Código: 
+Nome: 
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 3
+
+Código: 
+Nome: 
+Descrição: aaa
+Quantidade: 2222
+Preço: 222.0
+Marca: 22
+Modelo: aaa
+
+Código: 1
+Nome: aa
+Descrição: aaa
+Quantidade: 2
+Preço: 2.0
+Validade: 2021-06-03
+
+Código: 
+Nome: 
+Descrição: ss
+Quantidade: 33
+Preço: 33.0
+Marca: ss
+Modelo: ss
+
+Código: 
+Nome: 
+Descrição: ss
+Quantidade: 22
+Preço: 66.0
+Marca: ss
+Modelo: ss
+
+Código: 22
+Nome: 22
+Descrição: sss
+Quantidade: 22
+Preço: 22.0
+Marca: ss
+Modelo: ss
+
+Código: 222
+Nome: ff
+Descrição: ff
+Quantidade: 22
+Preço: 22.0
+Validade: 2021-06-09
+

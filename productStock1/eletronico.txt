@@ -1,0 +1,104 @@
+
+Código: 33
+Nome: 33
+Descrição: 33
+Quantidade: 33
+Preço: 33.0
+Marca: 33
+Modelo: 33
+
+Código: 33
+Nome: 33
+Descrição: 33
+Quantidade: 33
+Preço: 33.0
+Marca: 33
+Modelo: 33
+
+Código: 2
+Nome: 2
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 2
+
+Código: 123654
+Nome: celular
+Descrição: touch
+Quantidade: 250
+Preço: 1200.0
+Marca: sansung
+Modelo: 2024
+
+Código: 2
+Nome: 2
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 2
+
+Código: 123654
+Nome: computador
+Descrição: i3
+Quantidade: 22
+Preço: 3210.0
+Marca: sansung
+Modelo: atual
+
+Código: 2
+Nome: 2
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 2
+
+Código: 22331
+Nome: ss
+Descrição: sss
+Quantidade: 22
+Preço: 22.0
+Marca: sss
+Modelo: sss
+
+Código: 2
+Nome: 2
+Descrição: 2
+Quantidade: 2
+Preço: 2.0
+Marca: 2
+Modelo: 3
+
+Código: 22
+Nome: aaa
+Descrição: aaa
+Quantidade: 2222
+Preço: 222.0
+Marca: 22
+Modelo: aaa
+
+Código: 264
+Nome: ss
+Descrição: ss
+Quantidade: 33
+Preço: 33.0
+Marca: ss
+Modelo: ss
+
+Código: 22
+Nome: ss
+Descrição: ss
+Quantidade: 22
+Preço: 66.0
+Marca: ss
+Modelo: ss
+
+Código: 22
+Nome: 22
+Descrição: sss
+Quantidade: 22
+Preço: 22.0
+Marca: ss
+Modelo: ss
